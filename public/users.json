@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "username": "janedoe",
+    "email": "jane.doe@example.com",
+    "fullName": "Jane Doe",
+    "role": "customer",
+    "isActive": true,
+    "createdAt": "2025-06-10T10:00:00Z",
+    "profile": {
+      "age": 28,
+      "gender": "female",
+      "location": "San Francisco, CA",
+      "bio": "Coffee lover and avid reader."
+    }
+  },
+  {
+    "id": 2,
+    "username": "adminjoe",
+    "email": "joe.admin@example.com",
+    "fullName": "Joe Admin",
+    "role": "admin",
+    "isActive": true,
+    "createdAt": "2025-01-20T12:45:00Z",
+    "profile": {
+      "age": 35,
+      "gender": "male",
+      "location": "Austin, TX",
+      "bio": "System admin and cybersecurity expert."
+    }
+  }
+]

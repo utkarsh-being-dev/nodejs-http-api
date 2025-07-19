@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetched Data</title>
+</head>
+<body>
+    <h1>Fetch API Data</h1>
+    <p>This is just raw data fetched here and in console</p>
+  <button onclick="fetchData('/users')">Fetch Users</button>
+  <button onclick="fetchData('/products')">Fetch Products</button>
+  <button onclick="fetchData('/jokes')">Fetch Jokes</button>
+
+  <pre id="output">Click a button to load data...</pre>    
+
+  <script>
+    async function fetchData(endpoint) {
+      const output = document.getElementById('output');
+      output.textContent = 'Loading...';
+
+      try {
+        const response = await fetch(endpoint);
+
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+
+        const data = await response.json();
+        console.log(data);
+        output.textContent = JSON.stringify(data, null, 2);
+      }
+      
+      catch (error) {
+        output.textContent = 'Error: ' + error.message;
+      }
+    }
+  </script>
+</body>
+</html>

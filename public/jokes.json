@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "category": "Dad Joke",
+    "joke": "Why don't eggs tell jokes? Because they'd crack each other up.",
+    "author": "dadmaster99",
+    "likes": 124,
+    "createdAt": "2025-07-01T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "category": "Programming",
+    "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "author": "codequeen",
+    "likes": 309,
+    "createdAt": "2025-07-02T12:45:00Z"
+  },
+  {
+    "id": 3,
+    "category": "One-liner",
+    "joke": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+    "author": "punnyGuy",
+    "likes": 178,
+    "createdAt": "2025-07-03T14:20:00Z"
+  },
+  {
+    "id": 4,
+    "category": "Pun",
+    "joke": "I'm reading a book about anti-gravity. It's impossible to put down.",
+    "author": "astrojokester",
+    "likes": 152,
+    "createdAt": "2025-07-04T09:05:00Z"
+  },
+  {
+    "id": 5,
+    "category": "Programming",
+    "joke": "Why do Java developers wear glasses? Because they don't C#.",
+    "author": "devdad",
+    "likes": 221,
+    "createdAt": "2025-07-05T18:11:00Z"
+  },
+  {
+    "id": 6,
+    "category": "Dad Joke",
+    "joke": "What do you call fake spaghetti? An impasta.",
+    "author": "pastaPapa",
+    "likes": 94,
+    "createdAt": "2025-07-06T07:30:00Z"
+  },
+  {
+    "id": 7,
+    "category": "Dark Humor",
+    "joke": "Why don’t graveyards ever get overcrowded? Because people are dying to get in.",
+    "author": "darkwit",
+    "likes": 88,
+    "createdAt": "2025-07-06T10:40:00Z"
+  },
+  {
+    "id": 8,
+    "category": "Knock-Knock",
+    "joke": "Knock knock. Who's there? Cow says. Cow says who? Cow says mooooo!",
+    "author": "knockmaster",
+    "likes": 110,
+    "createdAt": "2025-07-07T08:00:00Z"
+  },
+  {
+    "id": 9,
+    "category": "One-liner",
+    "joke": "I'm so good at sleeping I can do it with my eyes closed.",
+    "author": "dreamdealer",
+    "likes": 173,
+    "createdAt": "2025-07-08T13:14:00Z"
+  },
+  {
+    "id": 10,
+    "category": "Animal",
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+    "author": "fieldfool",
+    "likes": 145,
+    "createdAt": "2025-07-09T11:23:00Z"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 101,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with USB receiver.",
+    "price": 25.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "stock": 120,
+    "rating": 4.5,
+    "createdAt": "2025-05-12T09:30:00Z",
+    "updatedAt": "2025-07-15T13:00:00Z"
+  },
+  {
+    "id": 102,
+    "name": "Bluetooth Headphones",
+    "description": "Over-ear Bluetooth headphones with noise cancellation.",
+    "price": 89.99,
+    "currency": "USD",
+    "category": "Audio",
+    "stock": 50,
+    "rating": 4.8,
+    "createdAt": "2025-06-01T15:45:00Z",
+    "updatedAt": "2025-07-18T10:22:00Z"
+  },
+  {
+    "id": 103,
+    "name": "Standing Desk",
+    "description": "Adjustable height standing desk for home office.",
+    "price": 199.00,
+    "currency": "USD",
+    "category": "Furniture",
+    "stock": 30,
+    "rating": 4.3,
+    "createdAt": "2025-04-20T08:00:00Z",
+    "updatedAt": "2025-07-10T16:10:00Z"
+  }
+]
