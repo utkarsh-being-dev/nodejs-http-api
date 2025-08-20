@@ -26,10 +26,18 @@ Visit http://localhost:8000/ in your browser.
 
 Learning Goals:
 Understand Node.js HTTP module.
-
 Route handling without Express.
-
 Sending HTML responses.
-
 Managing APIs with vanilla Node.js.
+
+
+Update:
+
+Added the ability to post data and save it in the specified json file,
+
+/productspost  --> products.json
+/jokespost --> jokes.json
+/userspost --> users.json
+
+the post is tested using Thunder Client and data is sent in the form of object
 
