@@ -27,12 +27,24 @@
     "id": 103,
     "name": "Standing Desk",
     "description": "Adjustable height standing desk for home office.",
-    "price": 199.00,
+    "price": 199,
     "currency": "USD",
     "category": "Furniture",
     "stock": 30,
     "rating": 4.3,
     "createdAt": "2025-04-20T08:00:00Z",
     "updatedAt": "2025-07-10T16:10:00Z"
+  },
+  {
+    "id": 104,
+    "name": "Post Test",
+    "description": "Post test done using Thunder",
+    "price": 0,
+    "currency": "N/A",
+    "category": "testing",
+    "stock": 0,
+    "rating": 0,
+    "createdAt": "2025-08-20T10:00:00Z",
+    "updatedAt": "2025-08-20T10:00:00Z"
   }
 ]
